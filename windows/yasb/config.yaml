@@ -63,6 +63,7 @@ widgets:
   cava:
     type: "yasb.cava.CavaWidget"
     options:
+      hide_empty: true
       bar_height: 12
       min_bar_height: 0
       bars_number: 8
